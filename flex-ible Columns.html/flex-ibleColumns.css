@@ -1,0 +1,39 @@
+
+
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    height: 60px;
+}
+
+.col{
+background-color: aquamarine;
+flex: 1;
+margin: 10px;
+}
+
+/* part 2 */
+
+
+
+.col-2{
+    background-color: aquamarine;
+    flex: 2;
+    margin: 10px;
+}
+
+/* part 3 */
+
+
+
+.col-3{
+    background-color: aquamarine;
+    flex: 3;
+    margin: 10px
+}
+
+
+
+
+
+
