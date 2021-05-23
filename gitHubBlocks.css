@@ -11,7 +11,7 @@ h1{
     background-color:silver;
     padding:0px;
     margin: 28px;
-    border-top: 5px black;
+    border-top: 5px solid black;
 }
 
 .topnav{
